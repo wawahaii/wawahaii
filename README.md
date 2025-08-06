@@ -1,1 +1,1 @@
-<h1 align="center">Nya~</h1>
+<h1 align="center">Nyan~</h1>
