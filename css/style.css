@@ -40,6 +40,7 @@ body {
       border-radius: 6px;
       border: 1px solid var(--app_fg_fullname_color);
       overflow: auto;
+      padding-bottom: 30px;
 }
 @media (max-width: 1800px) { .app { width: 35%; } }
 @media (max-width: 1600px) { .app { width: 45%; } }
@@ -111,6 +112,8 @@ a.discord:hover { background-color: var(--discord); }
 a.bsky:hover { background-color: var(--bluesky); }
 a.youtube:hover { background-color: var(--youtube); }
 a.github:hover { background-color: var(--github); }
+
+li.no-marker { color: transparent; }
 
 
 /* footer */
