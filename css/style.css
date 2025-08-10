@@ -12,7 +12,8 @@
       --github: #fffcfd;
 }
 
-* { font-family: Noto Sans, Arial, Sans Serif; font-weight: bold; } /* im lazy */
+* { font-family: Noto Sans, Arial, Sans Serif; font-weight: bold; cursor: default; } /* im lazy */
+a, a img { cursor: pointer!important; }
 
 body {
       background-color: var(--app_bg_backdrop);
