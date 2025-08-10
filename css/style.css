@@ -114,8 +114,8 @@ a.github:hover { background-color: var(--github); }
 
 
 /* footer */
-.credit-text { color: var(--app_fg_color); }
-.credit-text a { color: var(--app_fg_link); }
+.credit-text { color: var(--app_fg_color); width: 100%; }
+.credit-text a, a.credit-text { color: var(--app_fg_link); width: 100%; }
 
 footer {
       position: fixed;
